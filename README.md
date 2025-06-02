@@ -4,7 +4,7 @@ This mod enhances in-game aircraft names in War Thunder by adding their Realisti
 
 ## Screenshots
 
-![Discord_p59vW0udnX](https://github.com/user-attachments/assets/badb9810-1ede-4588-91ea-b81132cbd919)
+![Discord_LFAlyDdPee](https://github.com/user-attachments/assets/ed2125a9-24fd-42b5-8148-843c5a8844b6)
 
 ## How to Use
 
@@ -54,6 +54,14 @@ If you want to run the script directly from the source code:
 4.  **Apply the Mod**:
     * A modified `units.csv` will be generated in the script's directory.
     * Copy the generated `units.csv` into your `WarThunder/lang/` directory.
+
+## More Screenshots
+
+![Discord_5HmZRq82pt](https://github.com/user-attachments/assets/ef279f18-9b94-40c1-9509-67dbe5ca45f0)
+
+![Discord_QP3a2inQDP](https://github.com/user-attachments/assets/23ee7826-988c-4a79-bbcc-ff1dc5b7b631)
+
+![Discord_pf1koCsx9k](https://github.com/user-attachments/assets/275160fc-1b3b-4c8c-bc78-c7ebb4ce5ed2)
 
 ## Disclaimer
 
