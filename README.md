@@ -12,7 +12,7 @@ Make sure you've enabled "Custom localization" in "Options" -> "Main parameters"
 
 There are a few ways to use this mod:
 
-**Option 1: Download Pre-Generated `units.csv` (Easiest)**
+### Option 1: Download Pre-Generated `units.csv` (Easiest)
 
 I will provide an updated `units.csv` file after each major game patch, incorporating these name enhancements.
 1.  Go to the [**Releases**](https://github.com/The-sky-of-tears/WarThunder-Aircrafts-With-BRs/releases/tag/main) page of this GitHub repository.
@@ -21,7 +21,7 @@ I will provide an updated `units.csv` file after each major game patch, incorpor
 4.  Copy the `units.csv` file you downloaded into your `WarThunder/lang/` directory, replacing the existing one.
 5.  Launch War Thunder.
 
-**Option 2: Run the Script from a Release**
+### Option 2: Run the Script from a Release
 
 If you prefer to generate the file yourself using a ready-to-run version of the script:
 1.  Go to the [**Releases**](https://github.com/The-sky-of-tears/WarThunder-Aircrafts-With-BRs/releases/tag/main) page.
@@ -32,7 +32,7 @@ If you prefer to generate the file yourself using a ready-to-run version of the 
 6.  Copy the generated `units.csv` into your `WarThunder/lang/` directory.
 7.  Launch War Thunder.
 
-**Option 3: Run from Source Code (Advanced)**
+## Option 3: Run from Source Code (Advanced)
 
 If you want to run the script directly from the source code:
 1.  **Clone or Download**:
