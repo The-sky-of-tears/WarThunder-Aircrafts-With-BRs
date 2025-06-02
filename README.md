@@ -32,7 +32,7 @@ If you prefer to generate the file yourself using a ready-to-run version of the 
 6.  Copy the generated `units.csv` into your `WarThunder/lang/` directory.
 7.  Launch War Thunder.
 
-## Option 3: Run from Source Code (Advanced)
+##№ Option 3: Run from Source Code (Advanced)
 
 If you want to run the script directly from the source code:
 1.  **Clone or Download**:
